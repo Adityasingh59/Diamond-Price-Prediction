@@ -22,7 +22,7 @@ The regression equation used is as follows:
 There are two key datasets used in this project:
 
 - **[diamonds.csv](./diamonds.csv)**: This dataset was used to build the regression model and contains carat, cut, clarity, and price information.
-- **[new_diamonds.csv](./new_diamonds.csv)**: This dataset includes the carat, cut, and clarity details for the diamonds the company aims to purchase.
+- **[new_diamonds.csv](./new-diamonds.csv)**: This dataset includes the carat, cut, and clarity details for the diamonds the company aims to purchase.
 
 **Variable Descriptions:**
 
@@ -50,7 +50,7 @@ Using the model predictions, I calculated the total retail price of the diamonds
 The following data files are used in the project:
 
 - **[diamonds.csv](./diamonds.csv)**: Contains carat, cut, clarity, and price information for each diamond in the dataset used to build the regression model.
-- **[new_diamonds.csv](./new_diamonds.csv)**: Contains carat, cut, and clarity information for the diamonds the company would like to purchase.
+- **[new_diamonds.csv](./new-diamonds.csv)**: Contains carat, cut, and clarity information for the diamonds the company would like to purchase.
 
 ## Results and Conclusion
 
