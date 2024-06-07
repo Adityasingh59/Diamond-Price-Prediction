@@ -49,8 +49,8 @@ Using the model predictions, I calculated the total retail price of the diamonds
 
 The following data files are used in the project:
 
-- **[diamonds.csv](./data/diamonds.csv)**: Contains carat, cut, clarity, and price information for each diamond in the dataset used to build the regression model.
-- **[new_diamonds.csv](./data/new_diamonds.csv)**: Contains carat, cut, and clarity information for the diamonds the company would like to purchase.
+- **[diamonds.csv](./diamonds.csv)**: Contains carat, cut, clarity, and price information for each diamond in the dataset used to build the regression model.
+- **[new_diamonds.csv](./new_diamonds.csv)**: Contains carat, cut, and clarity information for the diamonds the company would like to purchase.
 
 ## Results and Conclusion
 
